@@ -4,7 +4,7 @@
 🎓 Cybersecurity student
 ⚡ Building real-world applications with a focus on backend systems
 
----
+<br>
 
 ## 🚀 Tech Stack
 
@@ -21,7 +21,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
----
+<br>
 
 ## 💼 Experience
 
@@ -30,7 +30,7 @@
 
 * 🚀 Built a **real-world SaaS project** for a client: *ViceEstate*
 
----
+<br>
 
 ## 📂 Featured Projects
 
