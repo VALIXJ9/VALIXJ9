@@ -34,8 +34,6 @@
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
-
 - 🏡 ViceEstate – Real estate SaaS built for a real client (Laravel, scraping, automation)
 - 📊 Leave Management System – Full-stack app with React, TypeScript & Node.js
 - 🎮 Rell’s Adventure – 2D platformer built with Godot
