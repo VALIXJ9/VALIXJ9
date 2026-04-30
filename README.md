@@ -4,7 +4,7 @@
 🎓 Cybersecurity student
 ⚡ Building real-world applications with a focus on backend systems
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -21,7 +21,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
----
+
 
 ## 💼 Experience
 
@@ -30,7 +30,7 @@
 
 * 🚀 Built a **real-world SaaS project** for a client: *ViceEstate*
 
----
+
 
 ## 📂 Featured Projects
 
@@ -38,7 +38,7 @@
 - 📊 Leave Management System – Full-stack app with React, TypeScript & Node.js
 - 🎮 Rell’s Adventure – 2D platformer built with Godot
 
----
+
 
 ## 📫 Contact
 
