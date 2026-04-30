@@ -34,33 +34,11 @@
 
 ## 📂 Featured Projects
 
-### 🏡 ViceEstate – Real Estate Aggregator
+## 📂 Featured Projects
 
-Full-stack web application built for a real client.
-
-* Aggregates listings from multiple platforms (Imot.bg, OLX, etc.)
-* Filters private listings only
-* Automated data processing & scraping logic
-* Built with Laravel, PHP, JavaScript, SQL (MVC)
-
----
-
-### 📊 Leave Management System
-
-Full-stack application with modern architecture
-
-* Role-based access & request workflows
-* React + TypeScript frontend
-* Node.js backend + SQL database
-
----
-
-### 🎮 Rell’s Adventure (2D Game)
-
-2D platformer built with Godot
-
-* Quest system with NPC interactions
-* Game mechanics, UI, and menus
+- 🏡 ViceEstate – Real estate SaaS built for a real client (Laravel, scraping, automation)
+- 📊 Leave Management System – Full-stack app with React, TypeScript & Node.js
+- 🎮 Rell’s Adventure – 2D platformer built with Godot
 
 ---
 
